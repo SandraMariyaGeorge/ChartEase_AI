@@ -33,10 +33,10 @@
 ## 🖼️ Screenshots
 
 
-![Landing](https://github.com/vishnuhari17/ChartEase_AI/blob/main/frontend/public/ss1.png?raw=true)
-![Creating chart](https://github.com/vishnuhari17/ChartEase_AI/blob/main/frontend/public/ss3.png?raw=true)
-![Dashboard](https://github.com/vishnuhari17/ChartEase_AI/blob/main/frontend/public/ss4.png?raw=true)
-![Generated charts](https://github.com/vishnuhari17/ChartEase_AI/blob/main/frontend/public/ss2.png?raw=true)
+![Landing](https://raw.githubusercontent.com/vishnuhari17/ChartEase_AI/refs/heads/main/screenshots/ss1.png)
+![Creating chart](https://raw.githubusercontent.com/vishnuhari17/ChartEase_AI/refs/heads/main/screenshots/ss3.png)
+![Dashboard](https://raw.githubusercontent.com/vishnuhari17/ChartEase_AI/refs/heads/main/screenshots/ss4.png)
+![Generated charts](https://raw.githubusercontent.com/vishnuhari17/ChartEase_AI/refs/heads/main/screenshots/ss2.png)
 
 ---
 
